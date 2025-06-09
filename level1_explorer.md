@@ -10,3 +10,6 @@ If you’re a legitimate developer and have trouble meeting all the requirements
 We’ll verify your profile and may manually assign you the role so you can access the tech support channel.
 Note that this role is only for support access, not for completing Guild tasks.
 
+## 🟨 You will unlock:
+- ✔️ The 'Zama Developer' role on Discord that grants you access to a live support channel #fhevm-tech-support with the Zama engineering team.
+- ✔️ Access to Level 2 – Learner
