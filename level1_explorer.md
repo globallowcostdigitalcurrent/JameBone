@@ -9,3 +9,4 @@
 If you’re a legitimate developer and have trouble meeting all the requirements, please highlight @Zama Mod in the #chat channel with your info.
 We’ll verify your profile and may manually assign you the role so you can access the tech support channel.
 Note that this role is only for support access, not for completing Guild tasks.
+
